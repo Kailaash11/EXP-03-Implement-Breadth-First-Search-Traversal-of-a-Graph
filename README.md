@@ -1,7 +1,7 @@
 # EXP-03-Implement-Breadth-First-Search-Traversal-of-a-Graph
 Breadth First Search Traversal of a Graph
-<h3>Name: JAYANTH S S </h3>
-<h3>Register Number: 212224050014</h3>
+<h3>Name: Kailaash v </h3>
+<h3>Register Number: 212224060112</h3>
 
 AIM: 
 Theory: 
